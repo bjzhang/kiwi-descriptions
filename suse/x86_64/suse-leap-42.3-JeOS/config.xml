@@ -42,7 +42,7 @@
         <source path="obs://Virtualization:Appliances:Builder/openSUSE_Leap_42.3"/>
     </repository>
     <repository type="rpm-md" alias="Leap_42_3" imageinclude="true">
-        <source path="obs://openSUSE:Leap:42.3/standard"/>
+        <source path="https://mirrors.tuna.tsinghua.edu.cn/opensuse/distribution/leap/42.3/repo/oss/"/>
     </repository>
     <packages type="image">
         <package name="checkmedia"/>
