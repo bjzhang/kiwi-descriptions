@@ -51,6 +51,7 @@
         <package name="grub2"/>
         <package name="kernel"/>
         <package name="plymouth-theme-charge"/>
+        <package name="docker"/>
     </packages>
     <packages type="iso">
         <package name="dracut-kiwi-live"/>
